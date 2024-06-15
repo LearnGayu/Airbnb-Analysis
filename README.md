@@ -1,12 +1,14 @@
 # Airbnb-Analysis
-Problem Statement: This project aims to analyze Airbnb data and perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. 
+Problem Statement: 
+       This project aims to analyze Airbnb data and perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. 
 Skills take away From This Project:
 1.Python scripting
 2.Data Preprocessing 
 3.Visualization
 4.EDA
 5.Streamlit
-6.PowerBI 
+6.PowerBI
+
 Approach:
   1. Data Cleaning and Preparation: Clean the Airbnb dataset by handling missing values, removing duplicates, and transforming data types as necessary. Prepare the dataset for EDA and visualization tasks, ensuring data integrity and consistency.
   2. Geospatial Visualization: Develop a streamlit web application that utilizes  the geospatial data from the Airbnb dataset to create interactive maps. Visualize the distribution of listings across different locations, allowing users to explore prices, ratings, and other relevant factors.
