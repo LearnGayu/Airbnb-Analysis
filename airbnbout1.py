@@ -9,14 +9,13 @@ from plotly.subplots import make_subplots
 from streamlit_option_menu import option_menu
 from PIL import Image
 import plotly.graph_objects as go                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-from plotly.subplots import make_subplots
 import seaborn as sns
 import matplotlib.pyplot as plt
 
 #Read csv files
 df = pd.read_csv("E:/Data scientist/Airbnb/airbnb_analysis.csv")
 
-st.sidebar.image(r"E:/Data scientist/Airbnb/images.png",use_column_width=600) #Phonepe Image
+st.sidebar.image(r"E:/Data scientist/Airbnb/images.png",use_column_width=600) #airbnb Image
 
 st.write(" ")
 st.write(" ")
